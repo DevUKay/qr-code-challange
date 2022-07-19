@@ -3,10 +3,14 @@ body {
     margin: 50px;
     max-width: 1440;
     background-color: hsl(212, 45%, 89%);
+    /* display: flex;
+    justify-content: center; */
   }
 
   .main-box {
-    margin-right: 40px;
+    /* position: absolute;
+    display: flex;
+    justify-content: center; */
     width: 275px;
     height: 450px;
     background-color: hsl(0, 0%, 100%);
@@ -16,6 +20,15 @@ body {
     text-align: center;
     box-shadow: 5px 10px 12px hsl(212, 45%, 83%);
   }
+  .inner{
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+    margin: 25vh auto;
+    align-items: center; 
+    ;
+  }
+
   .inner h3 {
     font-family: "Outfit", sans-serif;
     color: hsl(218, 44%, 22%);
@@ -39,7 +52,7 @@ body {
     body {
       padding: 0;
       margin: 0;
-      background-color: hsl(145, 68%, 75%);
+      background-color: hsl(212, 45%, 89%);
     }
 
     .main-box {
@@ -51,7 +64,7 @@ body {
       /* margin: auto; */
       align-items: center;
       text-align: center;
-      box-shadow: 5px 10px 12px hsl(145, 41%, 62%);
+      box-shadow: 5px 10px 12px hsl(212, 45%, 83%);
     }
     .inner h3 {
       font-family: "Outfit", sans-serif;
