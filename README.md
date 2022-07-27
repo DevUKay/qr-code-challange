@@ -22,9 +22,9 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [View The Live Project](https://devukay.github.io/qr-code-challange/)
-- Frontend Mentor: [@DevUKay] (https://www.frontendmentor.io/solutions/responsive-css-grid-adSd6VgSts)
+
+- Frontend Mentor: [View my solution at FrontEnd Mentors](https://www.frontendmentor.io/solutions/responsive-css-grid-adSd6VgSts)
 
 ## Author
 
--
 - Twitter - [@kingkayyy](https://twitter.com/kingkayyy)
